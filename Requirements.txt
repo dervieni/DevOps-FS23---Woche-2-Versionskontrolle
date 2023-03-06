@@ -4,7 +4,13 @@ Functional requirements:
 -   Req 1
 -   Req 2
 -   Req 3
+-   Req 4 
 
 Non-Functional requirements
 -   NReq 1
 -   NReq 2
+-   NReq 3
+-   NReq 4
+
+How many Updates did you have? 
+7
