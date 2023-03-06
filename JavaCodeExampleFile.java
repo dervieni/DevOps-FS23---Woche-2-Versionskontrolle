@@ -6,5 +6,6 @@ class A {
         System.out.println("Bugfix");
         System.out.println("The weather is nice today");
         System.out.println("Can you buy some drinks?");
+        System.out.println("Bufix2");
     }
    }
