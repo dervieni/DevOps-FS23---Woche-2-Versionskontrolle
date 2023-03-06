@@ -1,0 +1,10 @@
+This is a requirements file:
+
+Functional requirements:
+-   Req 1
+-   Req 2
+-   Req 3
+
+Non-Functional requirements
+-   NReq 1
+-   NReq 2
