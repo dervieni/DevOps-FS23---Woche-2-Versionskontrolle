@@ -5,5 +5,6 @@ class A {
         System.out.println("New Java Feature 2");
         System.out.println("The weather is nice today");
         System.out.println("Can you buy some drinks?");
+        System.out.println("Yes of course");
     }
    }
